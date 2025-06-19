@@ -1,0 +1,15 @@
+{
+  "timestamp": 1750335931555,
+  "operation": {
+    "id": "backend:specifications:asyncapi"
+  },
+  "projectId": "make-a-task-ma",
+  "files": [
+    {
+      "path": "../../apps/make-a-task-ma/backend/asyncapi.yaml",
+      "type": "text",
+      "size": 4141,
+      "dependencies": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "timestamp": 1750336042132,
+  "operation": {
+    "id": "settings:config:package"
+  },
+  "projectId": "make-a-task-ma",
+  "files": [
+    {
+      "path": "../../apps/make-a-task-ma/backend/package.json",
+      "type": "text",
+      "size": 903,
+      "dependencies": true
+    },
+    {
+      "path": "../../apps/make-a-task-ma/backend/.env",
+      "type": "text",
+      "size": 125,
+      "dependencies": false
+    }
+  ]
+}

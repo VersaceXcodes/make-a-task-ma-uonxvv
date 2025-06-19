@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750334221125,
+  "operation": {
+    "id": "webapp:react:root",
+    "refs": {
+      "id": "app",
+      "version": "latest"
+    }
+  },
+  "projectId": "make-a-task-ma",
+  "files": [
+    {
+      "path": "../../apps/make-a-task-ma/vitereact/src/App.tsx",
+      "type": "text",
+      "size": 160,
+      "dependencies": false
+    }
+  ]
+}
